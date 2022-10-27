@@ -1,0 +1,10 @@
+.target {
+    list-style: none;
+    margin: 0;
+    padding: 40px;
+    display: flex;
+    column-gap: 50px;
+    /* justify-content: space-between; */
+    border: 1px solid #eee;
+    /* overflow-x: auto; */
+}
